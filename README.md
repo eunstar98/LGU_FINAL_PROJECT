@@ -43,7 +43,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### **Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 ### **External API**
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white) ![Naver API](https://img.shields.io/badge/Naver%20API-03C75A?style=flat&logo=naver&logoColor=white) ![Wikipedia API](https://img.shields.io/badge/Wikipedia%20API-000000?style=flat&logo=wikipedia&logoColor=white)
@@ -55,29 +55,22 @@
 
 # 📝 요구사항 정의서
 
-포함하는 파일 링크로 
 ----------------------------------------
 
 # ⏱️ WBS
 
-포함하는 파일 링크로
  
 ----------------------------------------
 
 # 💻 코드
 
-
 ----------------------------------------
 
 # 📊 모델 정의서 및 성능 평가 결과서
 
-포함하는 파일 링크로
-
 -----------------------------------------
 
 # 📑 최종 보고서
-
-포함하는 링크로
 
 -----------------------------------------
 
