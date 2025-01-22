@@ -20,7 +20,13 @@
 | 이유송 | 최창성 | 장은별 | 송우선 | 김수현 | 정수빈 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/yusong.png" alt="프로필1" width="110"> | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/ccs.png" alt="프로필2" width="110"> | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/jeb.png" alt="프로필3" width="110"> | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/sws.png" alt="프로필4" width="110"> | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/ksh.png" alt="프로필5" width="110"> | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/jsb.png" alt="프로필6" width="110"> |
-| [@yusong](https://github.com/yusongod0303) | [@changsung6160](https://github.com/changsung6160) | [@eunstar98](https://github.com/eunstar98) | [@Song613](https://github.com/Song613) | [@ssukhyun](https://github.com/ssukhyun) | [@subin0728](https://github.com/subin0728) |
+| [![GitHub badge](https://img.shields.io/badge/GitHub-yusongod0303-181717?style=for-the-badge&logo=github)](https://github.com/yusongod0303) | [![GitHub badge](https://img.shields.io/badge/GitHub-yusongod0303-181717?style=for-the-badge&logo=github)](https://github.com/changsung6160) | [![GitHub badge](https://img.shields.io/badge/GitHub-yusongod0303-181717?style=for-the-badge&logo=github)](https://github.com/eunstar98) | [![GitHub badge](https://img.shields.io/badge/GitHub-yusongod0303-181717?style=for-the-badge&logo=github)](https://github.com/Song613) | [![GitHub badge](https://img.shields.io/badge/GitHub-yusongod0303-181717?style=for-the-badge&logo=github)](https://github.com/ssukhyun) | [![GitHub badge](https://img.shields.io/badge/GitHub-yusongod0303-181717?style=for-the-badge&logo=github)](https://github.com/subin0728) |
+
+
+---------------------------------------
+
+# 기술 스택  
+
 
 
 ---------------------------------------
