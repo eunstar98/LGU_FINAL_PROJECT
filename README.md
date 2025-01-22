@@ -12,9 +12,10 @@
 
 # 👥 팀원 소개
 
-| 이유송 | 최창성 | 장은별 | 송우선 | 김수현 | 정수빈 |
+| 이유송(팀장) | 최창성 | 장은별 | 송우선 | 김수현 | 정수빈 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/yusong.png" alt="프로필1" width="110"> | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/ccs.png" alt="프로필2" width="110"> | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/jeb.png" alt="프로필3" width="110"> | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/sws.png" alt="프로필4" width="110"> | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/ksh.png" alt="프로필5" width="110"> | <img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/aa0b417eab5fd46767f08d8807c3fe32e4dbce92/team_images/jsb.png" alt="프로필6" width="110"> |
+| **기획**, **데이터** | **데이터**, **웹** | **데이터**, **모델링** | **기획**, **웹** | **기획**, **웹** | **데이터**, **모델링** |
 | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/yusongod0303) | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/changsung6160) | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/eunstar98) | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/Song613) | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/ssukhyun) | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/subin0728) |
 
 </br>
