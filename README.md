@@ -1,6 +1,6 @@
 # 🛒 트렌드 기반 홈쇼핑 상품 추천 서비스 🛒
 
----------------------------------------
+
 
 # 📋 프로젝트 개요
 
@@ -8,7 +8,7 @@
 - **목표**: 트랜드에 민감한 사용자에게 트랜드 기반 및 개인 상품 추천을 포함하여 상품을 추천해주는 웹 서비스를 제공
 - **기간**: 2024년 12월 - 2025년 1월
 
----------------------------------------
+
 
 # 👥 팀원 소개
 
@@ -18,7 +18,7 @@
 | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/yusongod0303) | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/changsung6160) | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/eunstar98) | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/Song613) | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/ssukhyun) | [![GitHub badge](https://img.shields.io/badge/GitHub-LINK-181717?style=for-the-badge&logo=github)](https://github.com/subin0728) |
 
 
----------------------------------------
+
 
 # 🛠️ 기술 스택  
 
