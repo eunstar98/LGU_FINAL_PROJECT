@@ -1,7 +1,9 @@
 # 🛒 트렌드 기반 홈쇼핑 상품 추천 서비스 🛒
 
 </br>
-<img src="https://github.com/whynotsw-camp/wh02-3rd-3team-SHC/raw/a8415fb97cd0d305393fe922def0f78e60543a7a/team_images/003.png" alt="SHC Logo" width="300">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/whynotsw-camp/wh02-3rd-3team-SHC/a8415fb97cd0d305393fe922def0f78e60543a7a/team_images/003.png" alt="SHC Logo" width="300">
+</div>
 
 
 # 📋 프로젝트 개요
