@@ -42,28 +42,55 @@
 **External API** ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white) ![Naver API](https://img.shields.io/badge/Naver%20API-03C75A?style=flat&logo=naver&logoColor=white) ![Wikipedia API](https://img.shields.io/badge/Wikipedia%20API-000000?style=flat&logo=wikipedia&logoColor=white)
 
 **Collaboration Tools** ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
-
----------------------------------------
-
-# 📝 요구사항 정의서
-
-----------------------------------------
-
-# ⏱️ WBS
  
 ----------------------------------------
 
 # 💻 코드
 
+## 1. [웹 프로젝트: 홈쇼핑 데이터 기반 추천 시스템](https://github.com/yusongod0303/WEB_Deployment)
 
+### 📝 프로젝트 설명
+- **설명**: 홈쇼핑 데이터를 기반으로 사용자의 검색 및 클릭 데이터를 분석하여 유사한 상품을 추천하는 웹 서비스입니다.
+- **주요 기능**:
+  - **유저 맞춤형 추천**: 최근 검색 및 클릭 데이터를 기반으로 실시간 상품 추천
+  - **트렌드 기반 추천**: 인기 트렌드를 반영한 맞춤형 상품 추천
+  - **KMeans 및 CDAE 기반 추천**: 머신러닝과 딥러닝 모델을 결합하여 정확한 추천 제공
 
-----------------------------------------
+### 📂 주요 파일
+- `test.py`: FastAPI 기반 서버 및 주요 API 정의
+- `model_loader.py`: Amazon S3에서 모델 데이터를 다운로드하는 스크립트
+- `KMeans.py`: KMeans 군집화 기반 추천 시스템
+- `CDAE.py`: Collaborative Denoising Autoencoder를 이용한 추천 모델
 
-# 📊 모델 정의서 및 성능 평가 결과서
+---
 
------------------------------------------
+## 2. [데이터 수집 파이프라인: 자동화된 데이터 워크플로우](https://github.com/yusongod0303/Airflow_homeshopping)
 
-# 📑 최종 보고서
+### 📝 프로젝트 설명
+- **설명**: Apache Airflow를 활용하여 홈쇼핑 데이터를 정기적으로 수집하고 데이터베이스에 적재하는 데이터 수집 파이프라인을 구성했습니다.
+- **주요 기능**:
+  - **크롤링 작업 자동화**: 여러 소스의 크롤링 코드를 스케줄링 및 자동 실행
+  - **데이터 변환 및 적재**: 수집된 데이터를 전처리하고 MongoDB에 저장
+  - **모니터링**: Airflow를 통해 DAG 실행 상태 및 실패 로그 관리
+
+### 📂 주요 파일
+- `dags/`: Airflow DAG 정의 파일들 (데이터 수집 및 변환 작업)
+- `docker-compose.yaml`: Airflow 환경 구성 및 실행 설정
+
+---
+
+## 3. [데이터 크롤링: 홈쇼핑 상품 크롤러](https://github.com/yusongod0303/homeshopping_crawling)
+
+### 📝 프로젝트 설명
+- **설명**: 다양한 홈쇼핑 플랫폼(GS홈쇼핑, CJ온스타일 등) 및 네이버 데이터 랩에서 데이터를 자동으로 수집하는 크롤러입니다.
+- **주요 기능**:
+  - **다양한 소스 지원**: 네이버 데이터 랩, 공영홈쇼핑 등 여러 플랫폼에서 데이터 수집
+  - **동적 웹 페이지 크롤링**: Selenium을 활용하여 자바스크립트로 렌더링되는 페이지에서 데이터 추출
+  - **데이터 전처리**: 수집된 데이터를 OPENAI API 및 전처리 과정을 통해 분석 가능한 형태로 변환
+
+### 📂 주요 파일
+- `naver_crawler.py`: 네이버 쇼핑 트렌드 데이터를 크롤링하는 코드
+- 총 17개의 홈쇼핑 및 T-커머스 사이트 크롤링 코드
 
 -----------------------------------------
 
