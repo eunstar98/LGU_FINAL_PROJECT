@@ -82,7 +82,7 @@
 
 ---
 
-## 3. ## 3. [모델링: FastText 기반 단어 임베딩을 활용한 K-Means 및 CDAE 추천 시스템](https://github.com/yusongod0303/homeshopping-modeling)
+## 3. [모델링: FastText 기반 단어 임베딩을 활용한 K-Means 및 CDAE 추천 시스템](https://github.com/yusongod0303/homeshopping-modeling)
 
 ### 🏗️ 모델 개요
 이 프로젝트에서는 **FastText, K-Means, CDAE**를 활용하여 홈쇼핑 추천 시스템을 구축했습니다.
